@@ -1,6 +1,6 @@
 # Kanty Green Theme
 Baseado no Tema Flat Remix Green e botões de janelas Materia White.
-- -  ---
+_____
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta kanty-green-theme-master para sua /home.
 Dentro dessa pasta tem o arquivo Kanty Green.zip, extrair a pasta Kanty Green para /home/.themes.
@@ -9,6 +9,5 @@ _____
 # Mudando o tema
 Para mudar o tema no Mate Desktop, ir em Centro de Controle/Aparência, se por acaso o tema não estiver completo, faça manualmente.
 Clicar em Personalizar para fazer manualmente, depois clique em Salvar como... e escreva o nome ao tema criado.
-
 
 Observação: O tema foi usado e testado no Mate Desktop.
