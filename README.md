@@ -9,5 +9,6 @@ _____
 # Mudando o tema
 Para mudar o tema no Mate Desktop, ir em Centro de Controle/Aparência, se por acaso o tema não estiver completo, faça manualmente.
 Clicar em Personalizar para fazer manualmente, depois clique em Salvar como... e escreva o nome ao tema criado.
-_
+
+
 Observação: O tema foi usado e testado no Mate Desktop.
