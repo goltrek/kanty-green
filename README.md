@@ -1,6 +1,6 @@
 # Kanty Green Theme
 Baseado no Tema Flat Remix Green e botões de janelas Materia White.
-__
+_____
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta kanty-green-theme-master para sua /home.
 Dentro dessa pasta tem o arquivo Kanty Green.zip, extrair a pasta Kanty Green para /home/.themes.
